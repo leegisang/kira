@@ -1,6 +1,6 @@
 ---
 layout: home
-title: KIRA - AI 가상 직원 | 5분 만에 나만의 AI 비서 고용하기
+title: KIRA - AI 가상 직원 | 15분 만에 나만의 AI 비서 고용하기
 description: KIRA는 24시간 일하는 AI 가상 직원입니다. 데스크톱 앱만 설치하면 Slack, Outlook, Confluence, Jira와 연동되는 AI 비서를 바로 사용할 수 있습니다. 코딩 필요 없음.
 head:
   - - meta
@@ -150,6 +150,6 @@ Slack, Outlook, Confluence, Jira, GitLab, X 등 업무에 필요한 도구들과
 
 <div style="text-align: center; margin-top: 60px;">
   <h2>지금 바로 시작하세요</h2>
-  <p style="font-size: 18px;">5분이면 나만의 AI 가상 직원을 고용할 수 있습니다</p>
+  <p style="font-size: 18px;">15분이면 나만의 AI 가상 직원을 고용할 수 있습니다</p>
   <a href="/ko/getting-started" style="display: inline-block; margin-top: 20px; padding: 12px 32px; background: #3eaf7c; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">시작하기 →</a>
 </div>

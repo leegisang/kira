@@ -147,6 +147,6 @@ Connect directly with work tools like Slack, Outlook, Confluence, Jira, GitLab, 
 
 <div style="text-align: center; margin-top: 60px;">
   <h2>Get Started Now</h2>
-  <p style="font-size: 18px;">Hire your own AI virtual coworker in just 5 minutes</p>
+  <p style="font-size: 18px;">Hire your own AI virtual coworker in just 15 minutes</p>
   <a href="/getting-started" style="display: inline-block; margin-top: 20px; padding: 12px 32px; background: #3eaf7c; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">Get Started →</a>
 </div>
