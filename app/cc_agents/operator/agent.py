@@ -481,9 +481,6 @@ async def call_operator_agent(
         allowed_tools=["*"],
         disallowed_tools=[
             "Bash(curl:*)",
-            "Bash(rm:*)",
-            "Bash(rm -r*)",
-            "Bash(rm -rf*)",
             "Read(./.env)",
             "Read(./credential.json)",
             "mcp__tableau__get-view-image",
