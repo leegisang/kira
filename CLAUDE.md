@@ -363,7 +363,7 @@ $FILESYSTEM_BASE_DIR/memories/  # 기본: ~/Documents/KIRA/memories/
 └── index.md            # 자동 생성 인덱스
 ```
 - **형식**: Markdown 파일
-- **관리**: `slack-employee-memory` skill 사용
+- **관리**: `slack-memory-store` skill 사용
 - **검색**: Memory Retriever가 인덱스 기반 검색
 - **저장**: Memory Manager가 자동 분류 및 저장
 
